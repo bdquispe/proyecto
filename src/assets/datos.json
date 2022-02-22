@@ -27,13 +27,19 @@
         "materno": "Quisbert",
         "genero": "masculino",
         "nacionalidad": "boliviano"
-    }
-    , {
+    }, {
         "id": "5",
         "nombre": "Issue",
         "paterno": "project",
         "materno": "milestone",
         "genero": "masculinossss",
+        "nacionalidad": "boliviano"
+    }, {
+        "id": "6",
+        "nombre": "Steve",
+        "paterno": "Park",
+        "materno": "Tread",
+        "genero": "masculino",
         "nacionalidad": "boliviano"
     }
 ]
